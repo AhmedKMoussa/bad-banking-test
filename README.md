@@ -1,7 +1,3 @@
-# full-stack-bank
-
-I will be refactoring my bad-bank app into a three tier full stack program. Adding a back-end and authentication.
-
 # Project Title:
 
 - Full Stack Bank App
